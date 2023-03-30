@@ -1,0 +1,27 @@
+.container-learnings {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: var(--bgwhite);
+}
+
+.learnings_title {
+  margin-bottom: 60px;
+}
+
+.learnings_title-heading {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  margin-bottom: 1rem;
+  max-width: 555px;
+}
+
+.learnings_title-paragraph {
+  max-width: 404px;
+}
+
+.learnings_card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

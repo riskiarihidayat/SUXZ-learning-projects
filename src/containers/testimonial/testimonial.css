@@ -1,0 +1,27 @@
+.container-testimonial {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.testimonial_title {
+  text-align: center;
+}
+
+.testimonial_title_heading {
+  font-size: 44px;
+  line-height: 60px;
+  margin-bottom: 1rem;
+}
+
+.testimonial_title_paragraph {
+  font-size: 24px;
+  line-height: 33px;
+}
+
+.testimonial_card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+  margin-top: 57px;
+}

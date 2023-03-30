@@ -1,0 +1,22 @@
+.section-padding {
+  padding: 0 120px;
+}
+
+.teks-tagline {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: var(--lightBlue);
+}
+
+.teks-heading {
+  font-weight: 800;
+  color: var(--heading);
+}
+
+.teks-paragraph {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+  color: var(--paragraph);
+}

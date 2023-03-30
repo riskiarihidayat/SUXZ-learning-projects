@@ -1,0 +1,36 @@
+.container-card {
+  padding: 30px;
+  background-color: var(--white);
+  border-radius: 10px;
+}
+
+.card_image {
+  margin-bottom: 30px;
+}
+
+.card_title {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: var(--heading);
+  margin-bottom: 10px;
+}
+
+.card_paragraph {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: var(--heading);
+  margin-bottom: 30px;
+  max-width: 173px;
+}
+
+.card_button {
+  padding: 8px 58px;
+  background-color: var(--greyButton);
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+  color: var(--white);
+  border-radius: 5px;
+}

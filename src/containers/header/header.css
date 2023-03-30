@@ -1,0 +1,48 @@
+.container-header {
+  padding-top: 6.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-header_title {
+  margin-right: 5.3rem;
+}
+
+.header-content_title_heading {
+  margin-bottom: 1.5rem;
+  line-height: 87px;
+  font-size: 4rem;
+}
+
+.header-content_title_paragraph {
+  margin-bottom: 2.5rem;
+  color: var(--text);
+  font-size: 24px;
+}
+
+.header-content_cta {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.header-content_cta_started {
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 31px;
+  color: var(--white);
+  padding: 1.2rem 3.1rem;
+  background-color: var(--lightBlue);
+  border-radius: 10px;
+}
+
+.header-content_cta_services {
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 31px;
+  color: var(--lightButton);
+  padding: 1.2rem 3.1rem;
+  background-color: var(--whiteButton);
+  border-radius: 10px;
+}

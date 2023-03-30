@@ -1,0 +1,31 @@
+.container-company {
+  background-color: var(--bgwhite);
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.company_title {
+  text-align: center;
+}
+
+.company_title_heading {
+  font-size: 44px;
+  line-height: 60px;
+  margin-bottom: 20px;
+}
+
+.company_title_paragraph {
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 36px;
+  color: var(--black);
+}
+
+.company_brand-image {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-right: 268px;
+  margin-left: 268px;
+}

@@ -1,0 +1,36 @@
+.container-alumni {
+  text-align: center;
+}
+
+.alumni_image {
+  margin-bottom: -2.5rem;
+}
+
+.alumni_card_content {
+  border: 1px solid var(--black);
+  border-radius: 10px;
+}
+
+.alumni_name {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+  margin-top: 80px;
+}
+
+.alumni_job {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #bab8d2;
+  margin-bottom: 30px;
+}
+
+.alumni_reviews {
+  font-size: 17px;
+  line-height: 23px;
+  font-weight: 400;
+  color: var(--black);
+  margin-bottom: 48px;
+  padding: 0 24px 0 24px;
+}

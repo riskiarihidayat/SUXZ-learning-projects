@@ -1,0 +1,75 @@
+.container-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-top: 82px;
+  padding-bottom: 82px;
+}
+
+.footer_logo {
+  flex: 3;
+  margin-right: 3rem;
+}
+
+.footer_logo-brand {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 40px;
+}
+
+.footer_logo-brand h3 {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 46px;
+  color: var(--black);
+}
+
+.footer_logo-brand-paragraph {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 34px;
+  color: var(--heading);
+}
+
+.footer_company,
+.footer_links,
+.footer_contact {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.footer_title {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+  color: var(--heading);
+  margin-bottom: 4px;
+}
+
+.footer_links {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+  color: var(--heading);
+}
+
+.footer_contact-phone,
+.footer_contact-email {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--lightBlue);
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.footer_contact-address {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+  color: var(--black);
+}
